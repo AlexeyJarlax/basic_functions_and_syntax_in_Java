@@ -8,9 +8,15 @@
 
 
 <details> 
-  <summary> не нажимай сюда </summary>
+  <summary> не нажимай сюда! </summary>
   <details> 
-  <summary> не нажимай сюда !!!1111 </summary>
-  ты всё таки  нажал! 😭
+    <summary> ах, зачем ты так... 😅 </summary>
+      <details> 
+      <summary> аххх... остановись... 😳 </summary>
+        <details> 
+        <summary> ... это было великолепно! 😘 </summary>
+  
+    </details>
+    </details>
     </details>
     </details>
