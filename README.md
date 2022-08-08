@@ -14,8 +14,11 @@
       <details> 
       <summary> аххх... остановись... 😳 </summary>
         <details> 
-        <summary> ... это было великолепно! 😘 </summary>
+        <summary> ... это было великолепно 😳😳😳  </summary>
+          <details> 
+          <summary> 😘 </summary>
   
+    </details>
     </details>
     </details>
     </details>
